@@ -1,13 +1,3 @@
-##### :heavy_exclamation_mark: Status :heavy_exclamation_mark:
-Should work on all regions as long as the opcodes are mapped. Works on Caali's and Pinkie Pie's tera-proxy.
-
-##### :heavy_exclamation_mark: Installation :heavy_exclamation_mark:
-1) Download AFKer: https://github.com/TeraProxy/AFKer/archive/master.zip
-2) Extract the contents of the zip file into "\tera-proxy\mods\"
-3) Done! (the module will auto-update on Caali's proxy when a new version is released)
-  
-If you enjoy my work and wish to support future development, feel free to drop me a small donation: [![Donate](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A3KBZUCSEQ5RJ)
-
 # AFKer
 A tera-proxy module that prevents you from getting back to the character select screen.  
 Once activated, the server's AFK check will not kick you out of the game.  
